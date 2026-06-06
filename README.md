@@ -4,7 +4,7 @@ Chat with any PDF using AI. Upload a document and ask
 questions — get accurate answers with source references.
 
 ## 🔗 Live Demo
-[View Live App](https://your-app.streamlit.app)
+[View Live App](https://docmind-ai-koushik.streamlit.app)
 
 ## ✨ Features
 - Upload any PDF document
